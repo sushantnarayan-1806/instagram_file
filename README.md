@@ -39,7 +39,4 @@ This project replicates core features of Instagram with a clean UI and responsiv
 - Cloudinary (for image upload)
 - JWT Authentication
 
----
-
-## 📂 Project Structure
 
